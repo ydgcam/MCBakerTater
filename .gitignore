@@ -1,0 +1,8 @@
+Ableton Folder Info/
+Ableton Project Info/
+Backup/
+*.wav
+*.asd
+!*.mix.wav
+Samples/
+Serum Presets/
